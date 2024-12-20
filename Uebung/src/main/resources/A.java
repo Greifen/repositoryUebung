@@ -20,6 +20,7 @@ public class A {
 	//m11 4
 	//f3 2 4
 	//m12 4
+<<<<<<< HEAD
 	//f5 1
 	//f5 2
 	//m13
@@ -29,4 +30,7 @@ public class A {
 	//m17
 	//f9 1
 	//m18 m19
+=======
+	//m13
+>>>>>>> branch 'mfeature' of https://github.com/Greifen/repositoryUebung.git
 }
