@@ -11,4 +11,5 @@ public class A {
 	//m9
 	//f9
 	//f2 1
+	//f2 2
 }
