@@ -10,4 +10,5 @@ public class A {
 //f8
 	//m9
 	//f9
+	//f2 1
 }
