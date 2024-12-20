@@ -8,6 +8,7 @@ public class A {
 //f6 4
 //f7 4
 //f8 4
+	//f6 1
 	//f5 3
 	//m13
 	//m9 4
