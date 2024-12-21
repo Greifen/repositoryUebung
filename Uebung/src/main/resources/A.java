@@ -1,14 +1,18 @@
 
 public class A {
+//f1 4 remoteRepositorym21
 //f1 4
-//f1 4
-//f3 4
+//f3 4 32
 //f4 4
 //f5 4
 //f6 4
 //f7 4
 //f8 4 10
-	//f8 1
+	//m38
+	//m39
+	//m28 1 32
+	//f12 3 32
+	//f8 1 32
 	//f7 1
 	//f6 1
 	//f5 3
@@ -29,8 +33,36 @@ public class A {
 	//m16
 	//m17
 	//f9 1
+<<<<<<< HEAD
 	//m18 m19
 =======
 	//m13
 >>>>>>> branch 'mfeature' of https://github.com/Greifen/repositoryUebung.git
+=======
+	//m18 m19 m20 m22
+	//m23
+	//m24
+	//m25
+	//m28 2
+	//m26    
+	//f11
+	//m27
+	//m28 3
+	//f12 1
+	//f12 2
+	//m29
+	//m30
+	//m31
+	//m31
+	//m32
+	//m33
+	//m34
+	//m35
+	//m36
+	//m37
+	//m38
+	//m39
+	//f14
+	//ff14
+>>>>>>> refs/heads/feature14
 }
