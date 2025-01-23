@@ -49,4 +49,5 @@ public class A {
 	//m4 1
 	//m4 2
 	//m4 3
+	//m4 4
 }
