@@ -59,5 +59,5 @@ public class A {
 	/a2 1
 	/a2 2
 	/a3
-	
+	/a3 2
 }
