@@ -54,4 +54,5 @@ public class A {
 	//m4 6
 	/a1
 	/a1 2
+	//m5 1
 }
